@@ -29,7 +29,7 @@
 			$keyword = "maquiagem";
 
 			
-
+			//---- verifica a resposta
 			foreach ($resposta as $key) {
 
 				if ($key == $keyword)
