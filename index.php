@@ -221,7 +221,7 @@
 				<div class="sent-contact">
 					<p><b style="font-size: 28px">PARABÉNS!</b><br><br>
 						Agora você possui o certificado de conclusão do curso <br><br>
-						<span style="font-size: 18px">Arte das Cores – Colorimetria Avançada para Maquiadores Online</span><br><br>
+						<span style="font-size: 18px">Workshop Online de Maquiagem Profissional com Catlen Guerra</span><br><br>
 
 						<a href="<?php  echo $urlDownload;?>" style="border: 1px solid;border-radius: 5px;padding: 5px">DOWNLOAD DO CERTIFICADO</a><br><br>
 
